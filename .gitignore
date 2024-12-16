@@ -1,0 +1,21 @@
+# Laravel: appointment-api
+appointment-api/node_modules
+appointment-api/vendor
+appointment-api/storage/*.key
+appointment-api/storage/logs/*.log
+appointment-api/storage/framework/cache/*
+appointment-api/storage/framework/sessions/*
+appointment-api/storage/framework/views/*
+appointment-api/.env
+appointment-api/public/storage
+
+# Vue.js: appointment
+appointment/node_modules
+appointment/dist
+appointment/.env
+
+# OS/Editor-specific
+.DS_Store
+Thumbs.db
+.idea
+.vscode
